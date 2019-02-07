@@ -1,15 +1,15 @@
-#My Pet Website
-####{A short description of my pet Kitty}, {07/02/2019}
+# My Pet Website
+#### {A short description of my pet Kitty}, {07/02/2019}
 #### By **{Sauda Habib Salim}**
-##A simple pet Website
+## A simple pet Website
 {The website talks about the importance of having pets and why my pet, kitty is so important to me.}
-##Technologies used
+## Technologies used
 HTML CSS
-##Known Bugs
+## Known Bugs
 Hackable project
-##Contact Details
+## Contact Details
 Saudababs00@gmail.com
-##License
+## License
 MIT License
 
 Copyright (c) [2019] [Sauda Habib]
