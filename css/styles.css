@@ -1,0 +1,18 @@
+h1{
+  color:green;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-style: solid black;
+}
+
+h2{
+  text-align: left;center;
+  color: blue;
+  font-size: 1em;
+}
+
+ol{
+  overflow-y: scroll;
+
+}
